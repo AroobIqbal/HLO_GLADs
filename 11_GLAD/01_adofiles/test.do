@@ -1,0 +1,2 @@
+use "N:\datalib-edu\HLO_Database\CNT\CAN\CAN_2000_PISA\CAN_2000_PISA_v01_M_v01_A_GLAD\Data\Harmonized\CAN_2000_PISA_v01_M_v01_A_GLAD_ALL.dta", clear
+glad_microdata_to_clo_edit, assessment(PISA) year(2000) groups(countrycode) number_vars(score_pisa_read_*) factor_vars(level_pisa_read_*)

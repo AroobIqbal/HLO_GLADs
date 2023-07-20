@@ -1,0 +1,4 @@
+countrycode	year	nationally_representative	indicator	value	se	n
+RWA	2018	1	scorereadtotal	37.09176344900125	1.233108303042677	3099
+RWA	2018	1	scorereadfemale	38.7595640470811	1.693390723068922	1546
+RWA	2018	1	scorereadmale	35.54918853599217	1.765812122664879	1553
